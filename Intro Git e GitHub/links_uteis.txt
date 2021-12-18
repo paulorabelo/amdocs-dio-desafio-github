@@ -1,0 +1,17 @@
+Links úteis
+
+Markdown Guide
+O site Markdown Guide é um guia de referência gratuito e de código aberto com tudo o que você precisa para aprender Markdown.
+https://www.markdownguide.org/basic-syntax/
+
+
+GitKraken
+Começar a usar o Git para controle de versão  pode  ser confuso, mas não  precisa  ser. O GitKraken Git GUI, GitKraken Boards e GitKraken Timelines realmente ajudam a tornar o processo mais fácil.
+https://www.gitkraken.com/student-resources
+
+
+Git
+Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+https://git-scm.com/downloads
+
+
