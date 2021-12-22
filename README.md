@@ -1,4 +1,4 @@
-# Projeto Desafio Amdocs/DIO Git e GitHub
+# Projeto Desafio DIO - Git e GitHub
 Repositório criado para entrega de projeto do Desafio Amdocs/DIO sobre Git e GitHub.
 
 
