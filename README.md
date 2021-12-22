@@ -1,5 +1,5 @@
 # Projeto Desafio DIO - Git e GitHub
-Repositório criado para entrega de projeto do Desafio Amdocs/DIO sobre Git e GitHub.
+Repositório criado para entrega de projeto do Desafio DIO sobre Git e GitHub.
 
 
 ## Links úteis
